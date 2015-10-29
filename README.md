@@ -1,0 +1,2 @@
+# save-vapor-products-js
+This is a small JavaScript snippet similar to the SOPA/PIPA plugins from a few years ago. Basically, this will blackout your website in order to help support H.R.2058 on November 5, 2015 between 8am and 8pm local time. H.R.2058 is important because it will change the FDA's grandfather date so that all of the vapor products we currently have on the market, can stay on the market.
