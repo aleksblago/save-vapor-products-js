@@ -8,8 +8,8 @@ TVK.support = (function() {
 		styleTag,
 		containerDiv,
 		rightNow = new Date(),
-		startTime = new Date(2015, 10, 04, 8, 00),
-		endTime = new Date(2015, 10, 04, 20, 00);
+		startTime = new Date(2015, 10, 05, 8, 00),
+		endTime = new Date(2015, 10, 05, 20, 00);
 		
 	if (rightNow > startTime && rightNow < endTime) {
 		showSupportPage();
